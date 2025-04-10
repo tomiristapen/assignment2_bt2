@@ -67,4 +67,13 @@ cargo add solana-program@1.18.26
 
 ![Снимок экрана 2025-04-10 153805](https://github.com/user-attachments/assets/a1bbbe30-8ff5-4ddd-97e4-9e72a7177a19)
 
+### Validator
+![image](https://github.com/user-attachments/assets/e9913357-981c-4623-9d2f-1e406f7a8bb7)
+```bash
+solana-test-validator
+solana config set --url http://127.0.0.1:8899
+
+```
+Instead of using Devnet, you can run a local validator for faster testing.
+
 
