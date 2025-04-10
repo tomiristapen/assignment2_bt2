@@ -1,5 +1,5 @@
 #  Solana Hello World Deployment – Assignment 2 (Blockchain Technologies 2)
-Tapen Tomiris , Ayaulym Kenzhekul
+Tapen Tomiris SE-2316 , Ayaulym Kenzhekul SE-2314
 ##  Setup Instructions
 
 This project demonstrates setting up the Solana CLI, compiling a smart contract in Rust, and deploying it to the **Devnet**.
