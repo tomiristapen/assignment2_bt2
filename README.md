@@ -82,6 +82,8 @@ cargo add solana-program@1.18.26
 
 ### Validator
 ![image](https://github.com/user-attachments/assets/e9913357-981c-4623-9d2f-1e406f7a8bb7)
+![2025-04-10_23-08-31](https://github.com/user-attachments/assets/93778900-425b-4eda-b068-89d394d5a9ec)
+
 ```bash
 solana-test-validator
 solana config set --url http://127.0.0.1:8899
