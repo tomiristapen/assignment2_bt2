@@ -4,6 +4,12 @@
 
 This project demonstrates setting up the Solana CLI, compiling a smart contract in Rust, and deploying it to the **Devnet**.
 
+### Clone the repository 
+```bash
+git clone https://github.com/tomiristapen/assignment2_bt2.git
+cd assignment2_bt2
+```
+
 ---
 ### Solana CLI Installation
 
@@ -15,7 +21,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://solana-install.solana.workers.dev |
 ---
 
 
-###
+### Configuring CLI for Devnet
 ![Снимок экрана 2025-04-10 140745](https://github.com/user-attachments/assets/788fc9f5-a9fc-4eb0-b957-84eed82288d8)
 ```bash
 solana config get
@@ -32,13 +38,14 @@ solana config set --url devnet
   solana-keygen new
   solana config set --url devnet
   solana address
+  solana balance
+  solana airdrop 2
 ```
 ---
 ###  Implementing the core of a Solana program using Rust
 ![Снимок экрана 2025-04-10 143238](https://github.com/user-attachments/assets/eec7e1a7-c646-476e-9fd3-5f6fb50687ed)
 
 ```bash
-cargo init hello_world --lib
 cd hello_world
 cargo add solana-program@1.18.26
 ```
