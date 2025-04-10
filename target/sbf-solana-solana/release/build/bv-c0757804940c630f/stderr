@@ -1,0 +1,8 @@
+error: could not copy "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/bv-c0757804940c630f/out/rust_out.rust_out.2687cc810c3805e-cgu.0.rcgu.o" to "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/bv-c0757804940c630f/out/rust_out.o": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+error: could not copy "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/bv-c0757804940c630f/out/rust_out.rust_out.2687cc810c3805e-cgu.0.rcgu.o" to "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/bv-c0757804940c630f/out/rust_out.o": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+

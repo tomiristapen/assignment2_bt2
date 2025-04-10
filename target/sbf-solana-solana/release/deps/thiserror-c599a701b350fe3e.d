@@ -1,0 +1,10 @@
+/home/tomiristapen/solana-projects/hello_world/target/sbf-solana-solana/release/deps/libthiserror-c599a701b350fe3e.rmeta: /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/tomiristapen/solana-projects/hello_world/target/sbf-solana-solana/release/deps/libthiserror-c599a701b350fe3e.rlib: /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/tomiristapen/solana-projects/hello_world/target/sbf-solana-solana/release/deps/thiserror-c599a701b350fe3e.d: /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:

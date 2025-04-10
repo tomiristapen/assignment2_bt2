@@ -1,0 +1,13 @@
+error: could not copy "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/num-traits-89ea8fe7bf11cdff/out/autocfg_a011cc4c03b63b07_0.autocfg_a011cc4c03b63b07_0.3b27519c88013cb8-cgu.0.rcgu.ll" to "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/num-traits-89ea8fe7bf11cdff/out/autocfg_a011cc4c03b63b07_0.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+error: could not copy "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/num-traits-89ea8fe7bf11cdff/out/autocfg_a011cc4c03b63b07_1.autocfg_a011cc4c03b63b07_1.e875a9f721dc4951-cgu.0.rcgu.ll" to "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/num-traits-89ea8fe7bf11cdff/out/autocfg_a011cc4c03b63b07_1.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+
+warning: autocfg could not probe for `std`
+error: could not copy "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/num-traits-89ea8fe7bf11cdff/out/autocfg_a011cc4c03b63b07_2.autocfg_a011cc4c03b63b07_2.c59872ad0f649730-cgu.0.rcgu.ll" to "/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/build/num-traits-89ea8fe7bf11cdff/out/autocfg_a011cc4c03b63b07_2.ll": Operation not permitted (os error 1)
+
+error: aborting due to 1 previous error
+

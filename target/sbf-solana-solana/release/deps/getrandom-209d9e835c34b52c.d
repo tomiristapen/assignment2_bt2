@@ -1,0 +1,10 @@
+/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/deps/libgetrandom-209d9e835c34b52c.rmeta: /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/deps/libgetrandom-209d9e835c34b52c.rlib: /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/mnt/c/Users/Acer/Desktop/bt2/assignment2/hello_world/target/sbf-solana-solana/release/deps/getrandom-209d9e835c34b52c.d: /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs
+
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/home/tomiristapen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/custom.rs:
